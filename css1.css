@@ -1,0 +1,20 @@
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+    font-family: "Manrope", sans-serif;
+    color: blue;
+}
+
+h4 {
+    background-color: #e46c6c;
+}
+
+h4:hover {
+    background-color: #ddb420;
+}
+
+header {
+    background-image: linear-gradient(rgba(201, 44, 177, 0.2), rgba(31, 211, 235, 0.2));
+}
